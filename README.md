@@ -1,6 +1,8 @@
-# Docker OXID eShop 6
+# Docker OXID eShop 7
 
 This (linux/osx) setup bootstraps an dockerized developer environment for [OXID eShop 7](https://docs.oxid-esales.com/developer/en/7.1/).
+
+For OXID 6 have a look [here](https://github.com/proudcommerce/docker-oxid6).
 
 ## Overview
 
